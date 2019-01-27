@@ -1,6 +1,8 @@
 # SlightPotentialForFun
 Slight Potential For Fun - GGJ19 FGJ19 analogue party game
 
+![Potential for Fun](photo_2019-01-27_14-52-24.jpg)
+
 ## Game Rules
 
  * Players can join and exit at any point
@@ -50,7 +52,7 @@ Slight Potential For Fun - GGJ19 FGJ19 analogue party game
  
  In order to play the game the aforementioned cards shouls be put on some kind of card material, printed on paper and cut to cards of same size. 
  
- 
+![Example of cards, impossible combination as three hands on the play. Also one continuous shown.](photo_2019-01-27_10-09-56.jpg) 
  
  ## Different game modes
  
